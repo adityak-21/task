@@ -1,0 +1,4 @@
+scan_subscriber_queue_size : 1
+scan_subscriber_queue_name : /scan
+# twist_publisher_queue_size : 10
+# twist_publisher_topic_name : /twist

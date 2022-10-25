@@ -1,0 +1,2 @@
+/home/aditya/task/smb_ws/devel/./cmake.lock 144
+/home/aditya/task/.git/smb_ws/devel/./cmake.lock 4

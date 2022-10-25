@@ -1,0 +1,6 @@
+devel_space: /home/aditya/task/smb_ws/devel
+install: false
+install_space: /home/aditya/task/smb_ws/install
+profile: default
+source_space: /home/aditya/task/smb_ws/src
+workspace: /home/aditya/task/smb_ws
